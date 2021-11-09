@@ -16,7 +16,7 @@ The neural information retrieval models listed below are those which team member
 
 ## Team members
 <ul>
-    <li>Sahana Srinivas</li>
+    <li>Sahana Basapathi</li>
     <li>Uma Gunturi</li>
     <li>Vinit Masrani</li>
     <li>Alexander Giovannelli</li>
