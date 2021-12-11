@@ -15,6 +15,9 @@ The neural information retrieval models listed below are those which team member
     <li>
         <a href="https://dl.acm.org/doi/pdf/10.1145/3038912.3052579"> DUET - Learning to Match using Local and Distributed Representations of Text for Web Search</a>
     </li>
+    <li>
+        <a href="https://arxiv.org/abs/1606.04648"> Match Pyramid - A Study of MatchPyramid Models on Ad-hoc Retrieval</a>
+    </li>
 </ul>
 
 ## Team members
